@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const FullName = "faheem_mohamad";
+const FullName = "mohamad_faheem";
 const DOB = "10022005";
 const EMAIL = "faheem.22bce9942@vitapstudent.ac.in";
 const RollNumber = "22BCE9942";
